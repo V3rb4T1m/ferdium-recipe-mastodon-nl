@@ -1,5 +1,5 @@
 # ferdium-recipe-mastodon-nl
-Forked Mastodon.social node module that adds Mastodon.nl as a custom service to Ferdium
+*Forked Mastodon.social node module that adds Mastodon.nl as a custom service to Ferdium
 
 Download the zip-file from the Releases page
 
