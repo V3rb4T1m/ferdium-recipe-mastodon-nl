@@ -1,13 +1,15 @@
 # ferdium-recipe-mastodon-nl
 *Forked Mastodon.social node module that adds Mastodon.nl as a custom service to Ferdium*
 
+**Installation:**
 Download the zip-file from the Releases page
 
 Inside Ferdium, open Settings (Ctrl+P)<br>
 Click on the "Available services" sub-menu<br>
 Choose the "Custom services" tab
 
-Clicking the "Open folder" button, brings you to the dev-folder for custom recipes.<br>(By default: 'C:\Users\[Username]\Appdata\Roaming\Ferdium\recipes\dev\' on Windows machines)  
+Clicking the "Open folder" button opens the dev-folder for custom recipes.<br>
+(By default: 'C:\Users\[Username]\Appdata\Roaming\Ferdium\recipes\dev\' on Windows machines)  
 
 Create a new folder called "mastodon-nl"<br>
 Open the downloaded zip-file and extract its contents to the new folder<br>
