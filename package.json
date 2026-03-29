@@ -1,0 +1,13 @@
+{
+  "name": "Mastodon-NL",
+  "id": "mastodon-nl",
+  "version": "0.0.1",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://mastodon.nl",
+    "hasNotificationSound": true,
+    "hasHostedOption": true,
+    "hasCustomUrl": true
+  },
+  "defaultIcon": "https://cdn.jsdelivr.net/gh/ferdium/ferdium-recipes@main/recipes/mastodon/icon.svg"
+}
