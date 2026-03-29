@@ -8,7 +8,7 @@ Click on the "Available services" sub-menu;
 and choose the "Custom services" tab.
 
 Clicking the "Open folder" button, brings you to the dev-folder for custom recipes.
-\(By default: 'C:\Users\[Username]\Appdata\Roaming\Ferdium\recipes\dev\' on Windows machines)
+(By default: 'C:\Users\[Username]\Appdata\Roaming\Ferdium\recipes\dev\' on Windows machines)
 
 Create a new folder called "mastodon-nl"
 Open the downloaded zip-file and extract its contents to the new folder
