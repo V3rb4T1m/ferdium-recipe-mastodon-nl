@@ -12,7 +12,6 @@ Clicking the **[Open folder]** button opens the dev-folder for custom recipes.<b
 (Windows default: `C:\Users\[Username]\Appdata\Roaming\Ferdium\recipes\dev\`)  
 
 Create a new folder called *`mastodon-nl`*<br>
-Open the downloaded zip-file and extract its contents to the new folder<br>
-Close the file explorer
+Open the downloaded zip-file and extract its contents to the new folder, then close file explorer<br>
 
 The **[Available services]** sub-menu now shows the `Maston-NL` entry under **[Community made recipes]**.
