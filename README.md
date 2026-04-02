@@ -4,7 +4,7 @@
 **Installation:**<br>
 Download the zip-file from the [Releases](https://github.com/V3rb4T1m/ferdium-recipe-mastodon-nl/releases) page
 
-Inside Ferdium, open **[Settings]** (Ctrl+P)<br>
+Inside Ferdium, open **[Settings]** with 'Ctrl+P'<br>
 Click on the **[Available services]** sub-menu<br>
 Choose the **[Custom services]** tab
 
